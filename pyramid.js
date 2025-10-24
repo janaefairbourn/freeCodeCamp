@@ -1,4 +1,4 @@
-
+// Simple code to build a pyramid out of a set character
 let character = "!";
 let count = 10;
 const rows = [];
